@@ -372,7 +372,7 @@
         token:"",
         deviceType:type,
         audioSrc:BELL_URL,
-        socketURL:window._HOST||'',
+        socketURL:'wss://xiyue-websocket-Chatroom.guzhou330.workers.dev/ws',
         socket:null,
         isConnect:false
       }
